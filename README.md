@@ -1,5 +1,4 @@
-# Python Basics Mini Project
-##10 days of python
+# Python Basics Mini Project(10 days of python practice)
 
 ## Overview
 
